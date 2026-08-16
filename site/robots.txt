@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-# Current portfolio: https://nischhalsubba.com.np/
+# The legacy page is intentionally crawlable so search engines can observe
+# its noindex directive and canonical redirect to the current portfolio.
